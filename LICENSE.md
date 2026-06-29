@@ -1,4 +1,4 @@
-# 
+# Avancé AI Fake News Detector préréglages. Avec IA dans le cloud et reconnaissance d'images — optimisé pour des performances maximales.
 
 
 
